@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, specifically NLP and LLMs
 - 🌱 I’m currently learning more about different architectures of Language Models
 - 💞️ I’m looking to collaborate on any implementation of new released architectures.
-- 📫 Reach me on Linkedin: http://linkedin.com/in/mohnabill
+- 📫 Reach me on Linkedin: www.linkedin.com/in/mohamedelbahnasawi
 
 <!---
 mohamedelbahnasawi/mohamedelbahnasawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
